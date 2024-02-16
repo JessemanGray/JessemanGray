@@ -1,16 +1,15 @@
 <h1 align="center">  Howdy 🤠
-<h3 align="center"> I'm Jesse, this is my data-driven search for meaning in the world 🌍
+I'm Jesse, this is my data-driven search for meaning in the world 🌍
 
-<h3 align="left"
-  
+<h3 align="left"> I'm Jesse, this is my data-driven search for meaning in the world 🌍
 - 🔭 Currently working projects using CV, ML, and 3D graphing.
-
+  
 - 🌱 Learning Python, Open3d, OpenCV, YOLO, SQL, Databricks, Dash😄
-- 
+ 
 - 👯 Looking to collaborate on  projects exploring automonous vehicles, data lakehouse architecture and soft robotics
-- 
+  
 - 🤔 Also looking for help with sharpening programming skills and networking
-- 
+ 
 - 💬 Ask me about green data practices, 3d data visualization and animations, the uncanny valley effect
 
 
