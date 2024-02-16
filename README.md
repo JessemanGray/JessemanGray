@@ -1,16 +1,12 @@
-###  Howdy 👋 
+###  Howdy 🤠
+My name is Jesse, this is my data-driven search for meaning in the world 🌍
 
-<!--
-**JessemanGray/JessemanGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working projects using CV, ML, data lakehouse architecture, and 3D modeling.
+- 🌱 Learning Python, Open3d, OpenCV, YOLO, SQL, Databricks, Dash😄
+- 👯 Looking to collaborate on  projects exploring automonous vehicles, brain-computer interfaces and soft robotics
+- 🤔 I’m also looking for help with sharpening programming skills and networking 
+- 💬 Ask me about green data practices, 3d data visualization and animations, the uncanny valley effect
+- 📫 How to reach me: jessemangray@gmail.com ⚡ 
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! Come back soon!
