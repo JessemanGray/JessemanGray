@@ -29,4 +29,3 @@
 
 
 
-Thanks for visiting! Come back soon!
