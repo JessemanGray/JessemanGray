@@ -1,7 +1,7 @@
 <h1 align="center">  Howdy 🤠
 
 
-<h3 align="left">     I'm Jesse, this is my data-driven search for meaning in the world 🌍
+<h3 align="left">- I'm Jesse, this is my data-driven search for meaning in the world 🌍
   
 - 🔭 Currently working projects using CV, ML, and 3D graphing.
   
