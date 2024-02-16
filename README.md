@@ -1,17 +1,17 @@
 <h1 align="center">  Howdy 🤠
 
 
-<h3 align="left">           My name is Jesse Gray 👽this is my data-driven search for meaning in the world 🌍
+<h3 align="left">           My name is Jesse Gray 👽  this is my data-driven search for meaning in the world 🌍
   
-- 🔭 Currently working projects using 👁️📷CV, 🤖ML, and 3D graphing.
+- 🔭 Currently working projects using 👁📷 CV, 🤖 ML, and 3D graphing.
   
-- 🌱 Learning 🐍Python, Open3d, 👀OpenCV, YOLO, SQL, 🧱Databricks, Dash😄
+- 🐍 Learning Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
  
-- 👯 Looking to collaborate on  📊🔪projects exploring automonous vehicles, data lakehouse architecture and soft robotics
+- 👯 Looking to collaborate on projects exploring automonous vehicles, data lakehouse architecture and soft robotics
   
-- 🤔 Also looking for help with sharpening programming skills and networking
+- 🤔 Also looking for help with 🔪sharpening programming skills and networking
  
-- 💬 Ask me about green data practices, 3d data visualization and animations, the uncanny valley effect
+- 💬 Ask me about 🌱 green data practices, 3d data visualization and animations, the uncanny valley effect
 
 
 <h3 align="left">Connect with me:</h3>
