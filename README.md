@@ -1,5 +1,5 @@
 <h1 align="center">  Howdy 🤠
-I'm Jesse, this is my data-driven search for meaning in the world 🌍
+
 
 <h3 align="left"> I'm Jesse, this is my data-driven search for meaning in the world 🌍
   
@@ -7,7 +7,7 @@ I'm Jesse, this is my data-driven search for meaning in the world 🌍
   
 - 🌱 Learning Python, Open3d, OpenCV, YOLO, SQL, Databricks, Dash😄
  
-- 👯 Looking to work on  projects exploring automonous vehicles, data lakehouse architecture and soft robotics
+- 👯 Looking to collaborate on  projects exploring automonous vehicles, data lakehouse architecture and soft robotics
   
 - 🤔 Also looking for help with sharpening programming skills and networking
  
