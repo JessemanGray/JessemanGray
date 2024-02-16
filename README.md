@@ -7,7 +7,7 @@
   
 - 🐍 Learning Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
  
-- 👯 Looking to collaborate on projects exploring automonous vehicles, data lakehouse architecture and soft robotics
+- 👯 Looking to collaborate on projects exploring automonous vehicles, database architecture and soft robotics
  
 - 💬 Ask me about 🌱 green data practices, 3d data visualization and animations, the uncanny valley effect
 
