@@ -1,5 +1,5 @@
-<h3 align="center">###  Howdy 🤠
-<h3 align="center">I'm Jesse, this is my data-driven search for meaning in the world 🌍
+<h3 align="center">  Howdy 🤠
+<h3 align="left">I'm Jesse, this is my data-driven search for meaning in the world 🌍
 
 - 🔭 Currently working projects using CV, ML, data lakehouse architecture, and 3D modeling.
 - 🌱 Learning Python, Open3d, OpenCV, YOLO, SQL, Databricks, Dash😄
