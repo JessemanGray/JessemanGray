@@ -9,7 +9,7 @@
  
 - 👯 Looking to collaborate on projects exploring automonous vehicles, architecture and soft robotics
  
-- 💬 Ask me about 🌱 green data practices, 3d data visualization and animations, the uncanny valley effect
+- 💬 Ask me about 🌱 green data practices, 3d data visualization and animations. 
 
 
 <h3 align="left">Connect with me:</h3>
