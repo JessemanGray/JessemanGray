@@ -3,7 +3,7 @@
 
 <h3 align="left">           My name is Jesse Gray 👽  this is my data-driven search for meaning in the world 🌍
   
-- 🔭 Currently working projects using 👁📷 CV, 🤖 ML, and 3D graphing.
+- 🔭 Currently working projects using 📷 CV, 🤖 ML, and 3D graphing.
   
 - 🐍 Learning Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
  
