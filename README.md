@@ -9,7 +9,7 @@
  
 - 👯 Looking to collaborate on projects where data can advance community and social causes. 
  
-- 💬 Ask me about 🌱 green data practices, 3d data visualization and animations. 
+- 💬 Ask me about 🌱 green data practices, 3d data visualizations and animations. 
 
 
 <h3 align="left">Connect with me:</h3>
