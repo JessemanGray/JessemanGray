@@ -7,7 +7,7 @@
   
 - 🐍 Learning Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
  
-- 👯 Looking to collaborate on projects where data can benefit communities and advance social change. 
+- 👯 Looking to collaborate on projects where data can advance community and social causes. 
  
 - 💬 Ask me about 🌱 green data practices, 3d data visualization and animations. 
 
