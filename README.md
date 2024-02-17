@@ -3,13 +3,13 @@
 
 <h3 align="left">           My name is Jesse Gray 👽  this is my data-driven search for meaning in the world 🌍
   
-- 🔭 Currently working projects using 📷 CV, 🤖 ML, and 3D modeling. 
+- 🔭 Currently working on projects using 📷 CV, 🤖 ML, and 3D modeling. 
   
-- 🐍 Learning Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
+- 🐍 Utilizing Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
  
-- 👯 Looking to collaborate on projects where data can advance community and social causes. 
+- 👯 Looking to collaborate on projects where data can help advance community and social causes. 
  
-- 💬 Ask me about 🌱 green data practices, 3d data visualizations and animations. 
+- 💬 Ask me about 🌱 green data practices, 3d data visualization and animation. 
 
 
 <h3 align="left">Connect with me:</h3>
