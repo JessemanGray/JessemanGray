@@ -1,7 +1,7 @@
 <h1 align="center">  Howdy 🤠
 
 
-<h3 align="left">           My name is Jesse Gray 👽  this is my data-driven search for meaning in the world 🌍
+<h3 align="left">           My name is Jesse Gray 👽 
   
 - 🔭 Currently working on projects using 📷 CV, 🤖 ML, and 3D modeling. 
   
