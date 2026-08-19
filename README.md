@@ -1,35 +1,48 @@
 <p align="center">
-  <a href="https://htmlpreview.github.io/?https://github.com/JessemanGray/PHYLLOTAXIS/blob/main/phyllotaxis_plot.html">
-    <img src="https://img.shields.io/badge/-🔄%20View%20Interactive%20Phyllotaxis%20Demo-6a5acd?style=for-the-badge&logo=plotly&logoColor=white" alt="View Interactive Demo">
-  </a>
+  <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="250" fill="#0a0a0f"/>
+    <g transform="translate(400, 125)">
+      <script type="text/javascript">
+        const n = 800;
+        const goldenAngle = Math.PI * (3 - Math.sqrt(5));
+        let dots = '';
+        for (let i = 0; i < n; i++) {
+          const r = 2.8 * Math.sqrt(i);
+          const theta = i * goldenAngle;
+          const x = r * Math.cos(theta);
+          const y = r * Math.sin(theta);
+          const size = 1.5 + 2 * (1 - i/n);
+          const hue = 240 + 120 * (i/n);
+          dots += `<circle cx="${x}" cy="${y}" r="${size}" fill="hsl(${hue}, 90%, 60%)" opacity="0.8"/>`;
+        }
+        document.write(dots);
+      </script>
+    </g>
+  </svg>
 </p>
 
 ---
 
-programmer · designer · analyst  
-fine art · data science · built environment
+**Jesse Gray** · ML & Spatial Data Specialist
 
-I work at the intersection of fine art, data science, and real-world problem solving in the built environment. My focus: aesthetics of informatica, sustainable system design based on natural architecture, and multidimensional modeling for digital twin and smart building applications.
-
-Currently: continuing education Master's at University of Kansas.
+Data modeler and visualization specialist with experience in Python, SQL, and 3D modeling. Background in project management and technical sales, with a focus on open-source collaboration and self-organization.
 
 ---
 
 **recent work**
 
-digital twin modeling (2026–present) · 3D point clouds from CAD · collaboration with top-3 AI lab  
-ML aesthetic & semantic analysis (2026) · AI behavior frameworks · ontology design  
-call center analysis (2025–2026) · MCP/RAG pipeline · knowledge graphs
+**ML Consultant** (2026) · 3D point clouds for digital twins · collaboration with top-3 AI lab  
+**Data Consultant** (2026) · ML aesthetics & ontologies · AI behavior frameworks  
+**Data Science Specialist** (2025–2026) · MCP/RAG pipelines · knowledge graphs
 
-**past**  
-construction project manager (2011–2022) · historic preservation tax credits up to 45%
+---
 
 **stack**  
-`Python` `Open3D` `OpenCV` `YOLO` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `SQLite` `MongoDB` `GCP` `Docker` `Dash` `Three.js` `MCP` `RAG` `LangChain` `KG` `Prompt Engineering`
+`Python` `Open3D` `OpenCV` `YOLO` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `SQLite` `MongoDB` `GCP` `Docker` `Dash` `Three.js` `MCP` `RAG` `LangChain` `KG`
 
-**education**  
-Bloomtech (2023) · KU Expanded Media (2010–2012) · KU Master's (current)
+---
 
 **connect**  
-[github](https://github.com/jessemangray) · [linkedin](https://linkedin.com/in/jessemangray) · [medium](https://medium.com/@jessemangray)  
-📧 jessemangray@gmail.com · 📞 785.551.2639
+[github](https://github.com/jessemangray) · [linkedin](https://linkedin.com/in/jessemangray) · [medium](https://medium.com/@jessemangray) · [huggingface](https://huggingface.co/jessemangray)  
+📧 jessemangray@gmail.com
+
