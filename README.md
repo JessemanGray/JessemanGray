@@ -1,9 +1,7 @@
-<!-- LIVE PHYLLOTACTIC VISUALIZATION (rendered from your repo's logic) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JessemanGray/PHYLLOTAXIS/main/output.svg" 
-       alt="Phyllotactic visualization" 
-       width="600" 
-       style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <a href="https://htmlpreview.github.io/?https://github.com/JessemanGray/PHYLLOTAXIS/blob/main/phyllotaxis_plot.html">
+    <img src="https://img.shields.io/badge/-🔄%20View%20Interactive%20Phyllotaxis%20Demo-6a5acd?style=for-the-badge&logo=plotly&logoColor=white" alt="View Interactive Demo">
+  </a>
 </p>
 
 ---
