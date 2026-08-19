@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="phyllotaxis_banner.png" width="800">
-</p>
+# Howdy 🤠
+### My name is Jesse Gray 👽
+🔭 Currently working on projects using 📷 CV, 🤖 ML, and 3D modeling.
 
-# Jesse Gray
-### programmer · designer · analyst 
+🐍 Utilizing Python, Open3d, 👀 OpenCV, YOLO, SQL, 🧱 Databricks, Dash 😄
 
-I'm a programmer, designer, and analyst working at the intersection of fine art, data science, and real-world problem solving in the built environment. My primary areas of focus are the aesthetics of informatica—especially with regards to AI-generated media—sustainable system design based on the architecture of the natural world to maximize energy efficiency, and translating data into multidimensional models for digital twin and smart building applications.
+👯 Looking to collaborate on projects where data can help advance community and social causes.
 
+💬 Ask me about 🌱 green data practices, 3d data visualization and animation.
 
+### Connect with me:
+jessemangray jessemangray @jessemangray jessemangray @jessemangray jessemangray
 
- 
-
-
-[github](https://github.com/jessemangray) · [linkedin](https://linkedin.com/in/jessemangray) · [medium](https://medium.com/@jessemangray)  
+### Languages and Tools:
+docker gcp mongodb mysql opencv oracle pandas python pytorch scikit_learn sqlite tensorflow
 
 
 
